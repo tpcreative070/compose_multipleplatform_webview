@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=compose_multipleplatform_webview
+PRODUCT_BUNDLE_IDENTIFIER=co.tpcreative.compose_multipleplatform_webview.compose_multipleplatform_webview$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
